@@ -59,7 +59,7 @@ The *device_categories* file is a list which contains the names of the other fil
 
 Copy and configure the _rsync_ssh.sh_ file if necessary so that all files can be copied to redundant systems.
 
-[root@yourhost ~]# ls -la /etc/cron.hourly/
+[root@yourhost ~]# ls -la /etc/cron.hourly/  
 -rwxr-xr-x  1 root root  1955 Apr  1  2010 rsync_sshjump.sh
 
 ###Flat File Database Manager (FFDM)  
