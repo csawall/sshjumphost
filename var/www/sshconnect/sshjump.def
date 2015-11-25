@@ -1,0 +1,5 @@
+Device,STRING,20
+City,STRING,20
+State,LIST,1,NY:GA:CO
+Facility,STRING,20
+Description,TEXT,30:1

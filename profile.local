@@ -1,0 +1,3 @@
+if test "$USER" != "root" -a "$USER" != "anotheruser"; then
+	exec /opt/sshjump/sshconnect.sh
+fi
