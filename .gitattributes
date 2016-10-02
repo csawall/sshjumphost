@@ -1,0 +1,3 @@
+# Set proper languages for repo
+*.sh linguist-language=Shell
+*.php linguist-language=PHP
